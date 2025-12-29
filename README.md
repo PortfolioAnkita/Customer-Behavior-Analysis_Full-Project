@@ -58,3 +58,7 @@ o	Subscription-based customer distribution
 ├── SQL Queries (Business Problems)
 ├── Power BI Dashboard (.pbix)
 ├── Project Report
+
+This project shows a complete end-to-end data analytics workflow, from raw data to business insights using industry tools.
+
+
